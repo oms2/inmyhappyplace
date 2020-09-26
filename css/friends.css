@@ -1,0 +1,212 @@
+/* screen - friends */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--salmon);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--pastel-pink);
+  border-style:solid;
+  border-width:1px;
+}
+.font-class-1 {
+  color:var(--white);
+  font-family:'Times', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.friends {
+  background-color:var(--black);
+  height:100vh;
+  margin:0px;
+  min-height:2383px;
+  min-width:1920px;
+  overflow:hidden;
+  position:relative;
+  width:100%;
+}
+.friends .anyways-i--address-is-C61RwL {
+  background-color:rgba(255,255,255,0);
+  font-size:42.0px;
+  height:auto;
+  left:468px;
+  line-height:52.0px;
+  position:absolute;
+  text-align:left;
+  top:1390px;
+  width:828px;
+}
+.friends .aries-taur-ius-pisces-C61RwL {
+  background-color:rgba(255,255,255,0);
+  font-size:32.0px;
+  height:auto;
+  left:468px;
+  line-height:44.0px;
+  position:absolute;
+  text-align:left;
+  top:767px;
+  width:auto;
+}
+.friends .backgorund-universe-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:1881px;
+  left:0px;
+  position:absolute;
+  top:0px;
+  width:1920px;
+}
+.friends .do-you-kno-logy-signs-C61RwL {
+  background-color:rgba(255,255,255,0);
+  font-size:42.0px;
+  height:auto;
+  left:468px;
+  line-height:44.0px;
+  position:absolute;
+  text-align:left;
+  top:622px;
+  white-space:nowrap;
+  width:auto;
+}
+.friends .energetic--entimental-C61RwL {
+  background-color:rgba(255,255,255,0);
+  font-size:32.0px;
+  height:auto;
+  left:1012px;
+  line-height:44.0px;
+  position:absolute;
+  text-align:left;
+  top:767px;
+  width:auto;
+}
+.friends .march-21-a-9-march-20-C61RwL {
+  background-color:rgba(255,255,255,0);
+  font-size:32.0px;
+  height:auto;
+  left:625px;
+  line-height:44.0px;
+  position:absolute;
+  text-align:left;
+  top:767px;
+  width:auto;
+}
+.friends .x-back-C61RwL {
+  background-color:rgba(255,255,255,0);
+  cursor:pointer;
+  font-size:24.0px;
+  height:auto;
+  left:70px;
+  position:fixed;
+  text-align:left;
+  text-decoration:underline;
+  top:46px;
+  width:auto;
+}
+.friends .x01mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:132px;
+  position:absolute;
+  top:156px;
+  width:246px;
+}
+.friends .x02mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:1558px;
+  position:absolute;
+  top:1775px;
+  width:246px;
+}
+.friends .x03mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:568px;
+  position:absolute;
+  top:156px;
+  width:246px;
+}
+.friends .x04mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:1558px;
+  position:absolute;
+  top:552px;
+  width:246px;
+}
+.friends .x05mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:1063px;
+  position:absolute;
+  top:156px;
+  width:246px;
+}
+.friends .x06mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:1558px;
+  position:absolute;
+  top:156px;
+  width:246px;
+}
+.friends .x07mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:1093px;
+  position:absolute;
+  top:1775px;
+  width:246px;
+}
+.friends .x08mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:658px;
+  position:absolute;
+  top:1775px;
+  width:246px;
+}
+.friends .x09mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:132px;
+  position:absolute;
+  top:1775px;
+  width:246px;
+}
+.friends .x10mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:1558px;
+  position:absolute;
+  top:1138px;
+  width:246px;
+}
+.friends .x11mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:132px;
+  position:absolute;
+  top:609px;
+  width:246px;
+}
+.friends .x12mm-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:396px;
+  left:132px;
+  position:absolute;
+  top:1097px;
+  width:246px;
+}
+:root {
+  --black:rgba(0,0,0,1.0);
+  --pastel-pink:rgba(255,205,212,1.0);
+  --piggy-pink:rgba(255,226,230,1.0);
+  --salmon:rgba(255,153,168,1.0);
+  --white:rgba(255,255,255,1.0);
+}

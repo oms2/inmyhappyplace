@@ -1,0 +1,349 @@
+/* screen - homepage */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--salmon);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--pastel-pink);
+  border-style:solid;
+  border-width:1px;
+}
+.font-class-1 {
+  color:var(--white);
+  font-family:'Times', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.homepage {
+  background-color:var(--white);
+  height:100vh;
+  margin:0px;
+  min-height:2383px;
+  min-width:1920px;
+  overflow:hidden;
+  position:relative;
+  width:100%;
+}
+.homepage .fall1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:200px;
+  left:0px;
+  position:absolute;
+  top:1327px;
+  width:400px;
+}
+.homepage .fall2-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:287px;
+  left:-17px;
+  position:absolute;
+  top:1082px;
+  width:575px;
+}
+.homepage .fall3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:347px;
+  left:-31px;
+  position:absolute;
+  top:1486px;
+  width:631px;
+}
+.homepage .fall4-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:549px;
+  left:1078px;
+  position:absolute;
+  top:1068px;
+  width:842px;
+}
+.homepage .fall5-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:394px;
+  left:610px;
+  position:absolute;
+  top:1447px;
+  width:629px;
+}
+.homepage .fall6-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:592px;
+  left:231px;
+  position:absolute;
+  top:905px;
+  width:852px;
+}
+.homepage .fall7-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:639px;
+  left:133px;
+  position:absolute;
+  top:1301px;
+  width:908px;
+}
+.homepage .rectangle-20-C61RwL {
+  background-color:var(--black);
+  height:66px;
+  left:42px;
+  opacity:0.6;
+  position:fixed;
+  top:30px;
+  width:135px;
+}
+.homepage .spring1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:316px;
+  left:558px;
+  position:absolute;
+  top:0px;
+  width:545px;
+}
+.homepage .spring10-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:340px;
+  left:883px;
+  position:absolute;
+  top:347px;
+  width:600px;
+}
+.homepage .spring11-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:198px;
+  left:1402px;
+  position:absolute;
+  top:650px;
+  width:398px;
+}
+.homepage .spring12-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:452px;
+  left:-20px;
+  position:absolute;
+  top:396px;
+  width:704px;
+}
+.homepage .spring13-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:522px;
+  left:204px;
+  position:absolute;
+  top:427px;
+  width:453px;
+}
+.homepage .spring2-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:282px;
+  left:820px;
+  position:absolute;
+  top:208px;
+  width:515px;
+}
+.homepage .spring3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:235px;
+  left:1023px;
+  position:absolute;
+  top:-17px;
+  width:618px;
+}
+.homepage .spring4-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:370px;
+  left:-20px;
+  position:absolute;
+  top:0px;
+  width:639px;
+}
+.homepage .spring5-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:200px;
+  left:43px;
+  position:absolute;
+  top:224px;
+  width:400px;
+}
+.homepage .spring6-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:239px;
+  left:431px;
+  position:absolute;
+  top:270px;
+  width:505px;
+}
+.homepage .spring7-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:420px;
+  left:1296px;
+  position:absolute;
+  top:0px;
+  width:624px;
+}
+.homepage .spring8-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:364px;
+  left:1499px;
+  position:absolute;
+  top:0px;
+  width:417px;
+}
+.homepage .spring9-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:280px;
+  left:1446px;
+  position:absolute;
+  top:420px;
+  width:500px;
+}
+.homepage .summer1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:250px;
+  left:0px;
+  position:absolute;
+  top:848px;
+  width:400px;
+}
+.homepage .summer2-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:350px;
+  left:508px;
+  position:absolute;
+  top:815px;
+  width:515px;
+}
+.homepage .summer3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:345px;
+  left:784px;
+  position:absolute;
+  top:1034px;
+  width:457px;
+}
+.homepage .summer4-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:313px;
+  left:627px;
+  position:absolute;
+  top:560px;
+  width:556px;
+}
+.homepage .summer5-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:200px;
+  left:631px;
+  position:absolute;
+  top:500px;
+  width:392px;
+}
+.homepage .summer6-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:441px;
+  left:1332px;
+  position:absolute;
+  top:641px;
+  width:614px;
+}
+.homepage .summer7-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:347px;
+  left:1239px;
+  position:absolute;
+  top:1048px;
+  width:578px;
+}
+.homepage .summer8-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:405px;
+  left:820px;
+  position:absolute;
+  top:673px;
+  width:603px;
+}
+.homepage .winter1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:336px;
+  left:821px;
+  position:absolute;
+  top:1841px;
+  width:800px;
+}
+.homepage .winter2-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:288px;
+  left:603px;
+  position:absolute;
+  top:1682px;
+  width:500px;
+}
+.homepage .winter3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:498px;
+  left:-288px;
+  position:absolute;
+  top:1885px;
+  width:1244px;
+}
+.homepage .winter4-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:934px;
+  left:1483px;
+  position:absolute;
+  top:1644px;
+  width:485px;
+}
+.homepage .winter5-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:550px;
+  left:-101px;
+  position:absolute;
+  top:1833px;
+  width:433px;
+}
+.homepage .winter6-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:380px;
+  left:1194px;
+  position:absolute;
+  top:1486px;
+  width:668px;
+}
+.homepage .winter7-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:400px;
+  left:925px;
+  position:absolute;
+  top:2098px;
+  width:640px;
+}
+.homepage .winter8-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:390px;
+  left:590px;
+  position:absolute;
+  top:1949px;
+  width:408px;
+}
+.homepage .x-back-C61RwL {
+  background-color:rgba(255,255,255,0);
+  cursor:pointer;
+  font-size:24.0px;
+  height:auto;
+  left:70px;
+  position:fixed;
+  text-align:left;
+  text-decoration:underline;
+  top:46px;
+  width:auto;
+}
+:root {
+  --black:rgba(0,0,0,1.0);
+  --pastel-pink:rgba(255,205,212,1.0);
+  --piggy-pink:rgba(255,226,230,1.0);
+  --salmon:rgba(255,153,168,1.0);
+  --white:rgba(255,255,255,1.0);
+}

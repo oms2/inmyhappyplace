@@ -1,0 +1,301 @@
+/* screen - photo-album */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--salmon);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--pastel-pink);
+  border-style:solid;
+  border-width:1px;
+}
+.font-class-1 {
+  color:var(--white);
+  font-family:'Times', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.photo-album {
+  background-color:var(--white);
+  height:100vh;
+  margin:0px;
+  min-height:1745px;
+  min-width:1920px;
+  overflow:hidden;
+  position:relative;
+  width:100%;
+}
+.photo-album .boy-4-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:433px;
+  left:16px;
+  position:absolute;
+  top:1066px;
+  width:340px;
+}
+.photo-album .danca15-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:200px;
+  left:538px;
+  position:absolute;
+  top:1030px;
+  width:140px;
+}
+.photo-album .dancarina-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:329px;
+  left:1368px;
+  position:absolute;
+  top:1380px;
+  width:230px;
+}
+.photo-album .f36365de73-0924216fcc-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:397px;
+  left:147px;
+  position:absolute;
+  top:1264px;
+  width:307px;
+}
+.photo-album .gif-flower--clipart-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:250px;
+  left:615px;
+  position:absolute;
+  top:657px;
+  width:250px;
+}
+.photo-album .gif-plants--clipart-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:533px;
+  left:258px;
+  position:absolute;
+  top:-284px;
+  width:936px;
+}
+.photo-album .rectangle-20-C61RwL {
+  background-color:var(--black);
+  height:66px;
+  left:42px;
+  opacity:0.4;
+  position:fixed;
+  top:30px;
+  width:135px;
+}
+.photo-album .unnamed-00-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:363px;
+  left:7px;
+  position:absolute;
+  top:-51px;
+  width:225px;
+}
+.photo-album .unnamed-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:495px;
+  left:1059px;
+  position:absolute;
+  top:1114px;
+  width:251px;
+}
+.photo-album .unnamed-2-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:775px;
+  left:1468px;
+  position:absolute;
+  top:908px;
+  width:418px;
+}
+.photo-album .unnamed-3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:294px;
+  left:26px;
+  position:absolute;
+  top:843px;
+  width:206px;
+}
+.photo-album .unnamed-4-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:264px;
+  left:245px;
+  position:absolute;
+  top:1005px;
+  width:208px;
+}
+.photo-album .unnamed-5-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:380px;
+  left:349px;
+  position:absolute;
+  top:1082px;
+  width:266px;
+}
+.photo-album .unnamed-6-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:361px;
+  left:1285px;
+  position:absolute;
+  top:1052px;
+  width:254px;
+}
+.photo-album .unnamed-7-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:200px;
+  left:1368px;
+  position:absolute;
+  top:212px;
+  width:140px;
+}
+.photo-album .unnamed-8-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:303px;
+  left:694px;
+  position:absolute;
+  top:866px;
+  width:212px;
+}
+.photo-album .unnamed-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:428px;
+  left:199px;
+  position:absolute;
+  top:565px;
+  width:557px;
+}
+.photo-album .unnamed1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:475px;
+  left:584px;
+  position:absolute;
+  top:1230px;
+  width:425px;
+}
+.photo-album .x-back-C61RwL {
+  background-color:rgba(255,255,255,0);
+  cursor:pointer;
+  font-size:24.0px;
+  height:auto;
+  left:70px;
+  position:fixed;
+  text-align:left;
+  text-decoration:underline;
+  top:46px;
+  width:auto;
+}
+.photo-album .x00d4ck78-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:581px;
+  left:1026px;
+  position:absolute;
+  top:739px;
+  width:472px;
+}
+.photo-album .x00d4g8x5-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:616px;
+  left:312px;
+  position:absolute;
+  top:166px;
+  width:856px;
+}
+.photo-album .x019b5d5c51-3f26999817-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:226px;
+  left:346px;
+  position:absolute;
+  top:136px;
+  width:140px;
+}
+.photo-album .x01c3715c51-3d22418956-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:334px;
+  left:1026px;
+  position:absolute;
+  top:213px;
+  width:210px;
+}
+.photo-album .x01df255c51-3f26386977-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:226px;
+  left:686px;
+  position:absolute;
+  top:249px;
+  width:140px;
+}
+.photo-album .x01e6e05c51-3f26ccff3f-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:226px;
+  left:958px;
+  position:absolute;
+  top:268px;
+  width:140px;
+}
+.photo-album .x193513575x-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:503px;
+  left:1086px;
+  position:absolute;
+  top:198px;
+  width:352px;
+}
+.photo-album .x1990046ybovq1jmqc-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:414px;
+  left:836px;
+  position:absolute;
+  top:494px;
+  width:345px;
+}
+.photo-album .x200905251643252018-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:290px;
+  left:876px;
+  position:absolute;
+  top:908px;
+  width:150px;
+}
+.photo-album .x200905251643334926-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:641px;
+  left:-55px;
+  position:absolute;
+  top:300px;
+  width:317px;
+}
+.photo-album .x200905251643363830-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:830px;
+  left:232px;
+  position:absolute;
+  top:312px;
+  width:462px;
+}
+.photo-album .x201201191935414154-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:460px;
+  left:131px;
+  position:absolute;
+  top:241px;
+  width:322px;
+}
+.photo-album .x435-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:1536px;
+  left:1425px;
+  position:absolute;
+  top:-406px;
+  width:746px;
+}
+:root {
+  --black:rgba(0,0,0,1.0);
+  --pastel-pink:rgba(255,205,212,1.0);
+  --piggy-pink:rgba(255,226,230,1.0);
+  --salmon:rgba(255,153,168,1.0);
+  --white:rgba(255,255,255,1.0);
+}

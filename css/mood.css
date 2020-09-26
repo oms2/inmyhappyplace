@@ -1,0 +1,79 @@
+/* screen - mood */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--salmon);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--pastel-pink);
+  border-style:solid;
+  border-width:1px;
+}
+.font-class-1 {
+  color:var(--white);
+  font-family:'Times', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.mood {
+  background-color:var(--black);
+  height:100vh;
+  margin:0px;
+  min-height:3142px;
+  min-width:1920px;
+  overflow:hidden;
+  position:relative;
+  width:100%;
+}
+.mood .glitch-gog1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:2031px;
+  left:0px;
+  position:absolute;
+  top:0px;
+  width:1920px;
+}
+.mood .glithch-cat-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:1652px;
+  left:0px;
+  position:absolute;
+  top:1535px;
+  width:1920px;
+}
+.mood .x-back-C61RwL {
+  background-color:rgba(255,255,255,0);
+  cursor:pointer;
+  font-size:24.0px;
+  height:auto;
+  left:70px;
+  position:fixed;
+  text-align:left;
+  text-decoration:underline;
+  top:46px;
+  width:auto;
+}
+.mood .x2009nian7y-al-holiday-C61RwL {
+  background-color:rgba(255,255,255,0);
+  font-size:48.0px;
+  height:auto;
+  left:253px;
+  line-height:56.0px;
+  position:absolute;
+  text-align:left;
+  top:228px;
+  width:1385px;
+}
+:root {
+  --black:rgba(0,0,0,1.0);
+  --pastel-pink:rgba(255,205,212,1.0);
+  --piggy-pink:rgba(255,226,230,1.0);
+  --salmon:rgba(255,153,168,1.0);
+  --white:rgba(255,255,255,1.0);
+}
